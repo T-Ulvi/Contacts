@@ -1,2 +1,2 @@
-# Contacts
-## React Web App (for connections), check out: https://t-ulvi.github.io/Contacts/
+# Contacts  React Web App
+### (for your connections), check out: https://t-ulvi.github.io/Contacts/
